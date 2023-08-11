@@ -1,0 +1,82 @@
+body{
+    background-color:rgb(0 38 162 / 30%);
+}
+.titele{
+    margin-bottom: -15px;
+    text-align: center;
+    font-size: 300%;
+   
+}
+.t{
+    margin: auto;
+    height: 800px;
+    width: 70%;
+    background-color:white;
+    padding: 1px;
+    padding-bottom: 0%;    
+}
+.yo{
+    color: rgb(49, 166, 255);
+}
+.crgelCalim{
+    font-size: x-large;
+}
+a{
+    margin: 10px;
+    color: rgba(64, 64, 64, 0.73);
+}
+.secendT{
+    margin: 0px;
+    text-align: center;
+    font-size:150% ;
+    height: 5%;
+}
+
+
+
+.hthbrot{
+    text-decoration: none;
+    padding: 0.5%;
+}
+.hidosh{
+    text-decoration: none;
+    padding: 0.5%;
+}
+.rhishat{
+    text-decoration: none;
+    padding: 0.5%;
+}
+
+
+
+.rhishat:hover{
+    background-color: rgb(43, 156, 226);
+    transition:  0.5s ease-in-out;
+    color: black;
+}
+.hidosh:hover{
+    background-color: rgb(43, 156, 226);
+    transition:  0.5s ease-in-out;
+    color: black;
+}
+
+.hthbrot:hover{
+    background-color: rgb(43, 156, 226);
+    transition:  0.5s ease-in-out;
+    color: black;
+}
+.TalAndI{
+    height: 45%; width: 45%;
+    display: block;
+    margin: auto;
+    margin-top: 15%;
+    margin-left: 18%;
+}
+.coteret{
+    position: absolute;
+    left: 60%;
+    top: 45%;
+}
+.pam{
+    text-decoration: underline #000000;
+}
